@@ -1,6 +1,6 @@
 # Leak
 
-The unauthorized or unintentional exposure of a secret. Exposing
+The unauthorized or unintentional exposure of a [secret](../S/Secret.md). Exposing
 non-sensitive data is not a leak.
 
 ## Examples
