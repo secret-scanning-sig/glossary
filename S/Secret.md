@@ -1,4 +1,5 @@
 # Secret
+
 Any piece of sensitive information that, if exposed, could pose a
 risk to an individual or organization. The sensitivity of a secret is highly
 contextual.
